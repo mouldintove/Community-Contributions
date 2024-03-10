@@ -1,0 +1,26 @@
+{
+"name": "zhendesc9923ewrewrwe",
+"version": "1.0.0",
+"description": "We appreciate the contributions of community members, which make the project more complete and powerful.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mouldintove/Community-Contributions.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mouldintove",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
